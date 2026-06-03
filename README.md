@@ -84,11 +84,22 @@ Criteria included:<br>
 <p>5. Visualization</p>
 <p>The project includes the following visualizations:</p>
 <p>Bar charts (Age group vs Risk level) <br>
+  <img width="698" height="620" alt="image" src="https://github.com/user-attachments/assets/325ef0d8-f356-4942-a509-a5cec7f3b1b6" />
+
 Pie charts (Risk distribution) <br>
+<img width="512" height="517" alt="image" src="https://github.com/user-attachments/assets/ddb9cf2f-46bc-4fb8-afb2-f89f0689dede" />
+
 Histograms (Health parameter distributions)<br> 
+<img width="687" height="541" alt="image" src="https://github.com/user-attachments/assets/1d107e82-9465-4f56-9370-2b2579d08810" />
+
 Scatter plots (Age vs Blood Pressure) <br>
+<img width="716" height="572" alt="image" src="https://github.com/user-attachments/assets/5d37f2dc-cb4f-4ffa-bb90-6f8c753c5a68" />
+
 Box plots (Outlier detection) <br>
+<img width="687" height="541" alt="image" src="https://github.com/user-attachments/assets/c9d12472-47ee-44b3-9317-9f0b91486704" />
+
 Heatmaps (Correlation analysis) <br></p>
+<img width="757" height="647" alt="image" src="https://github.com/user-attachments/assets/291733bc-0a08-45b6-a1a6-aba96466472a" />
 
 <p>Tools and Technologies</p>
 <p>
